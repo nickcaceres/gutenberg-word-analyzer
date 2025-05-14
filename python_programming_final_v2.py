@@ -1,11 +1,6 @@
  # -*- coding: utf-8 -*-
 """Python_Programming_Final_V2.ipynb
 
-Original file is located at
-    https://colab.research.google.com/drive/11e2rtIg14bQmLmP3TDFSL2Kk7A5MPy8X
-"""
-
-"""
 Project Gutenberg Word Analyzer
 Author: Nicholas Caceres
 Date: 2025-05-06
